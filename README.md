@@ -1,3 +1,5 @@
+![CosmiCrush](screenshots/cosmicrush.png)
+
 # CosmiCrush
 
 CosmiCrush is an anime streaming application that allows users to watch a vast selection of anime series. With a beautiful and interactive UI, it is easy to use and navigate. The application allows users to save their favorite animes and receive notifications when a new episode is released.
