@@ -1,4 +1,4 @@
-![CosmiCrush](screenshots/cosmicrush.png)
+![CosmiCrush](screenshots/logo.png)
 
 # CosmiCrush
 
